@@ -1,0 +1,12 @@
+:root{
+  --bg:#111;
+  --panel:#121212;
+  --muted:#9aa;
+  --accent:#1aa04b;
+  color: #eee;
+  background: var(--bg);
+}
+body { margin:0; font-family: Inter, Arial, sans-serif; background:var(--bg); color:var(--muted); }
+h2, h3 { color: #fff; }
+input, select, button { font-size:14px; }
+pre { color:#ddd; }
